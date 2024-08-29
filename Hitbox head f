@@ -4,11 +4,11 @@
 -- Credits Dollynho
  
 _G.config = {
-HeadSize = 20,
+HeadSize = 25,
 TeamCheck = false,
 TargetPart = 'Head', -- 'HumanoidRootPart',
 Disabled = true,
-Transparency = 0.7,
-Color = BrickColor.new("Really blue"),
+Transparency = 0.10,
+Color = BrickColor.new("Really white"),
 Material = "Neon"
 }
