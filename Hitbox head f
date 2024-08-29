@@ -1,0 +1,14 @@
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+-- Credits Dollynho
+ 
+_G.config = {
+HeadSize = 20,
+TeamCheck = false,
+TargetPart = 'Head', -- 'HumanoidRootPart',
+Disabled = true,
+Transparency = 0.7,
+Color = BrickColor.new("Really blue"),
+Material = "Neon"
+}
